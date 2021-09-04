@@ -4,7 +4,7 @@
 # Usage
 > translate word
 
-eg:
+# Examples
 
 英译中，en -> zh
 > transalte hi
